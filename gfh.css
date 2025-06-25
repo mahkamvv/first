@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.kil {
+    border: .1px;
+    background-color: aqua;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin: 20px;
+}
+
+.kill {
+    margin-top: 20px;
+    margin: 20px;
+    border: 2px;
+    background-color: antiquewhite;
+    background-color:bisque;
+
+text-align: center;}
+    img {
+        width: 150px; margin: 20px;
+
+    }
+
+    h3 {
+        text-align: center;
+    }
+
+    button {
+        background-color: black;
+        color: white;
+        margin: 10px;
+    }
+
+
+
+body {
+    background-color: brown;
+}
+
+.pol {
+    border: .1px solid;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.pol{width: 300px;
+background-color: white;}
